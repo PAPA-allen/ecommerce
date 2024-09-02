@@ -1,7 +1,7 @@
 
 const AuthRegister = () => {
   return (
-    <div>
+    <div className="">
       register
     </div>
   )

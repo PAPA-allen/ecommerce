@@ -44,4 +44,4 @@ const CheckAuth: FC<AuthProps> = ({ isAuthenticated, user, children }) => {
     )
 }
 
-export default CheckAuth
+export default CheckAuth;
